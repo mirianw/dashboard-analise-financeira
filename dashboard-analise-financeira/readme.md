@@ -52,18 +52,11 @@ Neste projeto, trabalhei com:
 
 ---
 
-## 📷 Preview do Dashboard
+## Preview do Dashboard
 
 ![Dashboard](dashboard.png)
 
 ---
-
-## 📁 Estrutura do projeto
-
-📂 dashboard-analise-financeira
-┣ 📄 dashboard.pbix
-┣ 📄 dados.xlsx
-┗ 📄 README.md
 
 
 
