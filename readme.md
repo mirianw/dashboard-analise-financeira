@@ -54,7 +54,7 @@ Neste projeto, trabalhei com:
 
 ## Preview do Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard-analise-financeira/dashboard.png)
 
 ---
 
